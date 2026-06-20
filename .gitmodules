@@ -1,0 +1,12 @@
+[submodule "deps/argh"]
+	path = deps/argh
+	url = https://github.com/adishavit/argh.git
+[submodule "deps/gifdec"]
+	path = deps/gifdec
+	url = https://github.com/lecram/gifdec.git
+[submodule "deps/gifenc"]
+	path = deps/gifenc
+	url = https://github.com/lecram/gifenc.git
+[submodule "deps/stb"]
+	path = deps/stb
+	url = https://github.com/nothings/stb
